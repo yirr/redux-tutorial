@@ -1,1 +1,1 @@
-redux tutorial
+react tutorial
