@@ -1,0 +1,47 @@
+#======================================
+# Directories
+#--------------------------------------
+build/
+dist/
+coverage/
+node_modules/
+tmp/
+
+
+#======================================
+# Extensions
+#--------------------------------------
+*.gz
+*.local
+*.log
+*.rar
+*.tar
+*.zip
+
+#======================================
+# IDE generated
+#--------------------------------------
+.idea/
+.project
+*.iml
+
+
+#======================================
+# OS generated
+#--------------------------------------
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+
+#======================================
+# 固有
+#--------------------------------------
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
